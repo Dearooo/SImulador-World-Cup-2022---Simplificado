@@ -1,0 +1,30 @@
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/bin/Debug/net6.0/Simulador de Mata-Mata World Cup 2022
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/bin/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.deps.json
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/bin/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.runtimeconfig.json
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/bin/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/bin/Debug/net6.0/ref/Simulador de Mata-Mata World Cup 2022.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/bin/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.pdb
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.csproj.AssemblyReference.cache
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.GeneratedMSBuildEditorConfig.editorconfig
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.AssemblyInfoInputs.cache
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.AssemblyInfo.cs
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.csproj.CoreCompileInputs.cache
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/obj/Debug/net6.0/ref/Simulador de Mata-Mata World Cup 2022.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.pdb
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.genruntimeconfig.cache
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/bin/Debug/net6.0/Simulador de Mata-Mata World Cup 2022
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/bin/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.deps.json
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/bin/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.runtimeconfig.json
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/bin/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/bin/Debug/net6.0/ref/Simulador de Mata-Mata World Cup 2022.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/bin/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.pdb
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.csproj.AssemblyReference.cache
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.GeneratedMSBuildEditorConfig.editorconfig
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.AssemblyInfoInputs.cache
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.AssemblyInfo.cs
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.csproj.CoreCompileInputs.cache
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/obj/Debug/net6.0/ref/Simulador de Mata-Mata World Cup 2022.dll
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.pdb
+/home/moisesdearo/Área de Trabalho/Moises/GitHub/Simulador de Mata-Mata World Cup 2022 Simplificado/obj/Debug/net6.0/Simulador de Mata-Mata World Cup 2022.genruntimeconfig.cache
